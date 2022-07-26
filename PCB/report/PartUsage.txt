@@ -1,0 +1,86 @@
+ZenitCapture Report - 'Pins Not Connected to Net'                               
+
+Date: 17-09-17 (19:41:26)                                 Photo_rail_project.zsc
+================================================================================
+
+Reference   Part Name                      Part Library Name
+---------   ---------------------------    -------------------------------------
+1                                                                               
+C1                                                                              
+C2                                                                              
+C3                                                                              
+C4                                                                              
+C5                                                                              
+C6                                                                              
+C7                                                                              
+C8                                                                              
+CN1         HEADER_3                       CUSTOM.ZPR                           
+CN2                                                                             
+CN3                                                                             
+CN4         HEADER_3                       CUSTOM.ZPR                           
+CN5         MKS1853-6-0-404                CONN_STOCKO.ZPR                      
+CN6                                                                             
+DL1         LED_RED                        CUSTOM.ZPR                           
+DL2         LED_RED                        CUSTOM.ZPR                           
+DL3         LED_RED                        CUSTOM.ZPR                           
+DL4         LED_RED                        CUSTOM.ZPR                           
+IC1                                                                             
+IC2                                                                             
+Q1                                                                              
+R10                                                                             
+R11                                                                             
+R12                                                                             
+R13                                                                             
+R14                                                                             
+R15         RES                            CUSTOM.ZPR                           
+R16                                                                             
+R17                                                                             
+R18                                                                             
+R19         RES                            CUSTOM.ZPR                           
+R8                                                                              
+R9                                                                              
+
+
+
+Reference   Decal Name                     Decal Library Name
+---------   ---------------------------    -------------------------------------
+1           IDCH-10_2.54_TH                CUSTOM.ZPL                           
+C1          CAPC3216 [1206]                SMD_CHIP_CAPACITOR.ZPL               
+C2          CAPC3216 [1206]                SMD_CHIP_CAPACITOR.ZPL               
+C3          CAP-ELEC                       CUSTOM.ZPL                           
+C4          CAPC3216 [1206]                SMD_CHIP_CAPACITOR.ZPL               
+C5          CAPC3216 [1206]                SMD_CHIP_CAPACITOR.ZPL               
+C6          CAP-ELEC                       CUSTOM.ZPL                           
+C7          CAPC3216 [1206]                SMD_CHIP_CAPACITOR.ZPL               
+C8          CAP-ELEC                       CUSTOM.ZPL                           
+CN1         HEADER_3                       CUSTOM.ZPL                           
+CN2         HEADER_2                       CUSTOM.ZPL                           
+CN3         HEADER_2                       CUSTOM.ZPL                           
+CN4         HEADER_3                       CUSTOM.ZPL                           
+CN5         MKS1854-6-0-404                CONN_STOCKO.ZPL                      
+CN6         HEADER_2                       CUSTOM.ZPL                           
+DL1         1210 [MOD] SMD                 CUSTOM.ZPL                           
+DL2         1210 [MOD] SMD                 CUSTOM.ZPL                           
+DL3         1210 [MOD] SMD                 CUSTOM.ZPL                           
+DL4         1210 [MOD] SMD                 CUSTOM.ZPL                           
+IC1         DIP-28_MOD_TH                  CUSTOM.ZPL                           
+IC2         TO-220-V                       CUSTOM.ZPL                           
+Q1          QUARZO P4.88                   CUSTOM.ZPL                           
+R10         RESC3216 [1206]                CUSTOM.ZPL                           
+R11         RESC3216 [1206]                CUSTOM.ZPL                           
+R12         RESC3216 [1206]                CUSTOM.ZPL                           
+R13         RESC3216 [1206]                CUSTOM.ZPL                           
+R14         RESC3216 [1206]                CUSTOM.ZPL                           
+R15         RES-CR 1/4W S[10.16MM 400MIL]  TH_AXIAL.ZPL                         
+R16         RESC3216 [1206]                CUSTOM.ZPL                           
+R17         RESC3216 [1206]                CUSTOM.ZPL                           
+R18         RESC3216 [1206]                CUSTOM.ZPL                           
+R19         RES-CR 1/4W S[10.16MM 400MIL]  TH_AXIAL.ZPL                         
+R8          RESC3216 [1206]                CUSTOM.ZPL                           
+R9          RESC3216 [1206]                CUSTOM.ZPL                           
+R9          RESC3216 [1206]                CUSTOM.ZPL                           
+
+
+
+================================================================================
+end report...
